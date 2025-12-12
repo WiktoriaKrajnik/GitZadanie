@@ -4,5 +4,10 @@
   "dependencies": {
     "react": "18.2.0",
     "react-native": "0.71.8"
-  }
+  },
+  "scripts": {
+    "lint": "echo \"lint placeholder\"",
+    "test": "echo \"test placeholder\"",
+    "build": "echo \"build placeholder\""
+    }
 }
